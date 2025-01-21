@@ -1,0 +1,2442 @@
+fileFormatVersion: 2
+guid: 0c78547bc406b684eb51e7cdadfc3411
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pills_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 988
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780acd1dc5e3404f8deb53c3f9dd38e
+      internalID: -1921431578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 769
+        width: 151
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfd5d9952da54146b4a7771397dd231
+      internalID: -1542596530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 992
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1b5f99a98d064f85915cf152906ea
+      internalID: 1343539396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 988
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b22d4c1ef6e9b44a6e24fa5408fd47
+      internalID: 884617796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 769
+        width: 151
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871308ad4f6dd63449c5d36daa990e4c
+      internalID: -1147799838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 992
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754eb53c1baa85a4f9a88f058e155c8e
+      internalID: -1731297087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1016
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a878e1f3f0354f9e01929bf2259a1
+      internalID: -635032693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1012
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf469aa586346a4387bf06207449f3b
+      internalID: 1017419582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 988
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e67ab90e9264b4d84d15cf8c42451e
+      internalID: 1140667910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 769
+        width: 165
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edbe1da4d0a6e04bba716d035b54c36
+      internalID: 1725688173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 992
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5309ed329b7da4faf951946e839c6b
+      internalID: -1595385131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 980
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b060a60adfdf4aa54dc0cbb8c5d45
+      internalID: -1555901679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 964
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2680810d4ec02647a98e2d7b167bedc
+      internalID: 1349782191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 980
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49bed6815e565f4da8ae50e3d3afe78
+      internalID: 1915489954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 964
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1d7ca9d84988e4b9b854650ff5391d
+      internalID: 1890159978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 972
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c35b25434fb20d45b1bbe1518f871cd
+      internalID: -1156134165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 785
+        width: 153
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb2a1d0cf8d2c47881315d8b729f28
+      internalID: 1851695618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 976
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1263372abe97194e82fe1eeb2da86a9
+      internalID: 1456896315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 980
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0403e7c04562340b4567dd8349d89d
+      internalID: 739779519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 968
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4fb67243dcd244b980ef497e9337b2
+      internalID: -1854625926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 806
+        width: 6
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7abbad695c6ba439dea9517676e83e
+      internalID: -890085755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 968
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf87a993855633418bd3e349590e90e
+      internalID: -538279850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 809
+        width: 7
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c1c34cdabbd94bbb55dedeeef1bf6
+      internalID: 722949061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 806
+        width: 6
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b7d8bfed629a4188386d915d4df27
+      internalID: -5278775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 968
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4571391c7950c49b3bfe9b7c574177
+      internalID: 1223082029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 809
+        width: 7
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba61b24e57d7e4c81e56b185a3a676
+      internalID: 430585666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 826
+        width: 6
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd6a6794df4bbf4ba96022cf64630a6
+      internalID: -362589391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 948
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3370b4ce52177f847b40df724f3a1ba3
+      internalID: -1864301203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 801
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d4a7f3452593649b62f8d90dcd81fd
+      internalID: 958927556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 778
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036308d577c978f4ea78a70c9c0a5f91
+      internalID: -129430856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 843
+        width: 19
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea4d138f73ccca4b90ff3fbe9185519
+      internalID: -370329671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 821
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480dfd15eea2cb4b838a9e6ece3a067
+      internalID: 1966561115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 829
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b000399ca8e67c499834432f7588ff1
+      internalID: 605469222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 815
+        width: 11
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11c8975779daa94eb25445326145d68
+      internalID: -1536925248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 801
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd95945dcdd2e49932e5bbce25dcbd
+      internalID: 1088773258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 952
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8dab09036ea946b1e9051d9923ef7
+      internalID: 897268469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 817
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de46de8e0f410345b7f92c425231401
+      internalID: 774954943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 793
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a230f9e1bc0f72a40830a7f95fce57e6
+      internalID: -703764316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 801
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5069c0cf7b0341b4643145b6db599
+      internalID: 1293635669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 793
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b437ccbb38ccf03479248e30e042832c
+      internalID: 2029662145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 801
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37138059b9cb606429e60b2442398371
+      internalID: 1027042130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 760
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a46c8a9909accb4cb7eb1fd1091ad3b
+      internalID: -1063732925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 760
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e158bff34235e45a3ec90b9cb495cf
+      internalID: -75835162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 513
+        width: 148
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b196a6978cf56df42a6f1fe3c2efe3f4
+      internalID: -1420163623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 740
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456cf0313c1f57142bb5e80e2548b3cd
+      internalID: -1397387769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 513
+        width: 168
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7a336c99fc1e2469e3395b40ca0ed8
+      internalID: -565462648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 764
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca500d89856eb3444b86ab88dd55b155
+      internalID: -1819156867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 716
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7ee24603b66d40ba099d771b81889
+      internalID: -1976304242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 732
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12424dc8f66f3cf4cbcbf1977b851af1
+      internalID: 1544859417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 513
+        width: 165
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf996abb736d16041bfe5878620a23e3
+      internalID: 487135504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 736
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b03ef9c79f06c4093094538dd9041c
+      internalID: 1457589661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 497
+        width: 148
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568f21e49471cd4fbb0d052f3ae7d67
+      internalID: -1858327655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 763
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec9e2317191d54b8d8b7f2381aceea
+      internalID: 665813510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c55a7da04b2d4d8ad9063ac227066
+      internalID: -1811368228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db44338bf7d2a524ca687a7381656c7c
+      internalID: -1291752574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 740
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b6a87ed785144b87fe8a3c6dd63c8
+      internalID: -951357619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 712
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb59fda1abae75c4cbc807bd1b1009c4
+      internalID: 744671656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 720
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74286c16ee7117d41add4ca85069d22b
+      internalID: 959882517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 559
+        width: 11
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c352c4a639324e24183eff4cde411cb2
+      internalID: -1106369785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 724
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fddc0689358f6745aaf2825ab315d41
+      internalID: -1988682733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 712
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bcd6ece28286543ac7d5c29771967e
+      internalID: -293570457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 712
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f6a628f1f9dfc43b80d78e26822153
+      internalID: 414295741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 546
+        width: 6
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77cde0bcfef83447b1a385559c0bdf7
+      internalID: 1262383758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 537
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdebcb94a8035e64cb38a423a5cccf50
+      internalID: -1935380589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 559
+        width: 7
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f853946217652d4e855f7a9c2d4af77
+      internalID: -1811960155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 545
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a61c0ae7c2789648a37e649aa42f024
+      internalID: -299936333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 561
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf3dd0d7e4de447b520bb5d0042cec
+      internalID: 605688732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 700
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f088813615558145b6beee5979b7642
+      internalID: 1660761532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 545
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba275b0d40608545b6d5a7334b7856d
+      internalID: 2081718268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 561
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a821a4b7cc0ac4b48b6cccaff0fcb29e
+      internalID: 159779705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 696
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750eb32552b430458440a99813f18e9
+      internalID: 18190010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 546
+        width: 6
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd4ff6ac1460ee4483e34ddcfb17103
+      internalID: 41250397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 537
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be9a81208017aa4ba00d1a7b0ab30d2
+      internalID: -386846709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 533
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4734e493dd92eed4d99733c9adf3e029
+      internalID: -140107454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 476
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc8f49cc08dfe5429ee4e32d99699ff
+      internalID: 938303921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 493
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9e74aef31fc54b8856b89db020cfa
+      internalID: -715682214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 489
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c91d1a36f0d75e4384c5217fb4c90e4
+      internalID: 1904972459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 493
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73117e01768527f4f93601995fe157aa
+      internalID: -1768103118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 489
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40127c369bd0bf408f6c96476845e43
+      internalID: -318637904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 533
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88d4acad652fbf41bb10cb81df3381f
+      internalID: -196682309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 497
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba06738461e755349969d534bb6a3800
+      internalID: -5000841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 245
+        width: 184
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b934280fbb1ab50488abf42346bcf227
+      internalID: -1669167352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 488
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f44cb7c33e6e84c9eaef1e2dd50f16
+      internalID: 860365810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 488
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e713a5f24fc886e4284a46cd3e6fddba
+      internalID: -614183125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 489
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4cec248ab448845a10cbb084ad1f99
+      internalID: 1582995042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 488
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7739e1e0fb0376142a13e11b355cae4d
+      internalID: 775452189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 482
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6371ba8b45a64597818eed4bb7917
+      internalID: -1965883626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 484
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ebf033b81d25b4cab658e58d602743
+      internalID: -1114335762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 482
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968b03114e50c8249b46de443c0a82ba
+      internalID: -2123637833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 484
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa703a9730f52a64ab7ceba44b74e01b
+      internalID: -660851937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 482
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305e0a49d1e8a46b1e97398c1d69aa
+      internalID: 532584874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 448
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37433272faf7f147a36a037e17a3091
+      internalID: -1868466762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 464
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b74116386e8f84ab31743e206e10b5
+      internalID: 1200818594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 456
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640618d566375b44a95e919b13ec6a43
+      internalID: 630209563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 410
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1657ba30ad66749a9734f13b1b8b3f
+      internalID: -697077110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 444
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fc515f6cc8d8041b7a47e1fc619cf6
+      internalID: 2005141696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 281
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec3577f2f48d4942a31dfd6df6a1c03
+      internalID: 324361977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 8
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54550e09d2012714093c02d0cc7c63ff
+      internalID: 930362992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 293
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756ac958c4877f419730ec5a84084e7
+      internalID: -191643897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 236
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4961326a96a8969468b2f7aaaaa2fc4b
+      internalID: 1831284969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 237
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d8768727c76e4abb6c641e9db2b3a
+      internalID: -1092499503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 232
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075c4393a059d64d870fd78fc854164
+      internalID: -1304023389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 228
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4536af7e34c364485685a0fe6082f3
+      internalID: -1130060553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pills_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 226
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55444f36d96fded4a9586c0de2e09cbe
+      internalID: -1087583840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 84c441b1ff68c014f8531770a35895f5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pills_atlas_0: -1921431578
+      Pills_atlas_1: -1542596530
+      Pills_atlas_10: -1595385131
+      Pills_atlas_100: 1831284969
+      Pills_atlas_101: -1092499503
+      Pills_atlas_102: -1304023389
+      Pills_atlas_103: -1130060553
+      Pills_atlas_104: -1087583840
+      Pills_atlas_11: -1555901679
+      Pills_atlas_12: 1349782191
+      Pills_atlas_13: 1915489954
+      Pills_atlas_14: 1890159978
+      Pills_atlas_15: -1156134165
+      Pills_atlas_16: 1851695618
+      Pills_atlas_17: 1456896315
+      Pills_atlas_18: 739779519
+      Pills_atlas_19: -1854625926
+      Pills_atlas_2: 1343539396
+      Pills_atlas_20: -890085755
+      Pills_atlas_21: -538279850
+      Pills_atlas_22: 722949061
+      Pills_atlas_23: -5278775
+      Pills_atlas_24: 1223082029
+      Pills_atlas_25: 430585666
+      Pills_atlas_26: -362589391
+      Pills_atlas_27: -1864301203
+      Pills_atlas_28: 958927556
+      Pills_atlas_29: -129430856
+      Pills_atlas_3: 884617796
+      Pills_atlas_30: -370329671
+      Pills_atlas_31: 1966561115
+      Pills_atlas_32: 605469222
+      Pills_atlas_33: -1536925248
+      Pills_atlas_34: 1088773258
+      Pills_atlas_35: 897268469
+      Pills_atlas_36: 774954943
+      Pills_atlas_37: -703764316
+      Pills_atlas_38: 1293635669
+      Pills_atlas_39: 2029662145
+      Pills_atlas_4: -1147799838
+      Pills_atlas_40: 1027042130
+      Pills_atlas_41: -1063732925
+      Pills_atlas_42: -75835162
+      Pills_atlas_43: -1420163623
+      Pills_atlas_44: -1397387769
+      Pills_atlas_45: -565462648
+      Pills_atlas_46: -1819156867
+      Pills_atlas_47: -1976304242
+      Pills_atlas_48: 1544859417
+      Pills_atlas_49: 487135504
+      Pills_atlas_5: -1731297087
+      Pills_atlas_50: 1457589661
+      Pills_atlas_51: -1858327655
+      Pills_atlas_52: 665813510
+      Pills_atlas_53: -1811368228
+      Pills_atlas_54: -1291752574
+      Pills_atlas_55: -951357619
+      Pills_atlas_56: 744671656
+      Pills_atlas_57: 959882517
+      Pills_atlas_58: -1106369785
+      Pills_atlas_59: -1988682733
+      Pills_atlas_6: -635032693
+      Pills_atlas_60: -293570457
+      Pills_atlas_61: 414295741
+      Pills_atlas_62: 1262383758
+      Pills_atlas_63: -1935380589
+      Pills_atlas_64: -1811960155
+      Pills_atlas_65: -299936333
+      Pills_atlas_66: 605688732
+      Pills_atlas_67: 1660761532
+      Pills_atlas_68: 2081718268
+      Pills_atlas_69: 159779705
+      Pills_atlas_7: 1017419582
+      Pills_atlas_70: 18190010
+      Pills_atlas_71: 41250397
+      Pills_atlas_72: -386846709
+      Pills_atlas_73: -140107454
+      Pills_atlas_74: 938303921
+      Pills_atlas_75: -715682214
+      Pills_atlas_76: 1904972459
+      Pills_atlas_77: -1768103118
+      Pills_atlas_78: -318637904
+      Pills_atlas_79: -196682309
+      Pills_atlas_8: 1140667910
+      Pills_atlas_80: -5000841
+      Pills_atlas_81: -667461743
+      Pills_atlas_82: -1669167352
+      Pills_atlas_83: 860365810
+      Pills_atlas_84: -614183125
+      Pills_atlas_85: 1582995042
+      Pills_atlas_86: 775452189
+      Pills_atlas_87: -1965883626
+      Pills_atlas_88: -1114335762
+      Pills_atlas_89: -2123637833
+      Pills_atlas_9: 1725688173
+      Pills_atlas_90: -660851937
+      Pills_atlas_91: 532584874
+      Pills_atlas_92: -1868466762
+      Pills_atlas_93: 1200818594
+      Pills_atlas_94: 630209563
+      Pills_atlas_95: -697077110
+      Pills_atlas_96: 2005141696
+      Pills_atlas_97: 324361977
+      Pills_atlas_98: 930362992
+      Pills_atlas_99: -191643897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
